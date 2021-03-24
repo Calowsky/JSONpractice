@@ -1,0 +1,100 @@
+{
+ 	"songs": [{
+ 			"arist": "Nirvana",
+ 			"title": "All Apologies",
+ 			"release year ": 1993,
+ 			"genres": [
+ 				"Grunge",
+ 				"Rock"
+ 			]
+ 		},
+
+
+ 		{
+ 			"arist": "Silverchair",
+ 			"title": "Suicidal Dream",
+ 			"release year ": 1995,
+ 			"genres": [
+ 				"Grunge",
+ 				"Rock"
+ 			]
+ 		},
+
+ 		{
+ 			"arist": "Red Hot Chili Peppers",
+ 			"title": "Californication",
+ 			"release year ": 1999,
+ 			"genres": [
+ 				"Rock"
+ 			]
+ 		},
+
+ 		{
+ 			"arist": "Green Day",
+ 			"title": "American Idiot",
+ 			"release year ": 2004,
+ 			"genres": [
+ 				"Rock",
+ 				"Punk"
+ 			]
+ 		},
+
+ 		{
+ 			"arist": "Foo Fighters",
+ 			"title": "Everlong",
+ 			"release year ": 1997,
+ 			"genres": [
+ 				"Rock"
+ 			]
+ 		},
+
+ 		{
+ 			"arist": "Pearl Jam",
+ 			"title": "Even Flow",
+ 			"release year ": 1001,
+ 			"genres": [
+ 				"Rock"
+ 			]
+ 		},
+
+ 		{
+ 			"arist": "R.E.M.",
+ 			"title": "Losing My Religion",
+ 			"release year ": 1991,
+ 			"genres": [
+ 				"Rock"
+ 			]
+ 		},
+
+ 		{
+ 			"arist": "The Offspring",
+ 			"title": "The Kids Aren't Alright",
+ 			"release year ": 1998,
+ 			"genres": [
+ 				"Rock",
+ 				"Punk"
+ 			]
+ 		},
+
+ 		{
+ 			"arist": "Blink-182",
+ 			"title": "All the Small Things",
+ 			"release year ": 2000,
+ 			"genres": [
+ 				"Rock"
+ 			]
+ 		},
+
+ 		{
+ 			"arist": "Nirvana",
+ 			"title": "Lithium",
+ 			"release year ": 1992,
+ 			"genres": [
+ 				"Rock",
+ 				"Grunge"
+ 			]
+ 		}
+
+ 	]
+ }
+    
